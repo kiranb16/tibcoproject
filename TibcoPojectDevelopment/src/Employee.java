@@ -4,7 +4,7 @@ public class Employee {
  
  private String name;
  
- private String city;
+ private String state;
  
  
 }
